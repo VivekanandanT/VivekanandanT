@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg"><img src="./assets/hero.svg" width="100%" alt="Vivekanandan T, AI Engineer and Backend Developer. Building Intelligent Systems. Engineering What's Next. Portrait photo of Vivekanandan T."/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-v2.svg"><img src="./assets/hero-v2.svg" width="100%" alt="Vivekanandan T, AI Engineer and Backend Developer. Building Intelligent Systems. Engineering What's Next. Portrait photo of Vivekanandan T."/></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-about.svg"><img src="./assets/h-about.svg" width="100%" alt="01 About"/></picture>
 
@@ -29,9 +29,9 @@ I'm a Programmer Analyst focused on building intelligent applications, scalable 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-contact.svg"><img src="./assets/h-contact.svg" width="100%" alt="05 Contact"/></picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vivekanandan-t/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin.svg"><img src="./assets/btn-linkedin.svg" height="56" alt="LinkedIn: vivekanandan-t"/></picture></a>
-  <a href="mailto:vivekthambi17@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email.svg"><img src="./assets/btn-email.svg" height="56" alt="Email: vivekthambi17@gmail.com"/></picture></a>
-  <a href="https://github.com/VivekanandanT"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-github.svg"><img src="./assets/btn-github.svg" height="56" alt="GitHub: VivekanandanT"/></picture></a>
+  <a href="https://www.linkedin.com/in/vivekanandan-t/" title="Open my LinkedIn profile"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin.svg"><img src="./assets/btn-linkedin.svg" height="56" alt="LinkedIn: vivekanandan-t"/></picture></a>
+  <a href="mailto:vivekthambi17@gmail.com" title="Send me an email"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email.svg"><img src="./assets/btn-email.svg" height="56" alt="Email: vivekthambi17@gmail.com"/></picture></a>
+  <a href="https://github.com/VivekanandanT" title="My GitHub profile"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-github.svg"><img src="./assets/btn-github.svg" height="56" alt="GitHub: VivekanandanT"/></picture></a>
 </p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer.svg"><img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by. Let us build something intelligent."/></picture>
