@@ -24,7 +24,7 @@ I'm a Programmer Analyst focused on building intelligent applications, scalable 
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-skills.svg"><img src="./assets/h-skills.svg" width="100%" alt="04 Skills"/></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills.svg"><img src="./assets/skills.svg" width="100%" alt="Skills. Languages shown as logos: Python, JavaScript, TypeScript. Backend: FastAPI, SQLAlchemy, Async Python, REST APIs, Atlassian Forge. Data: PostgreSQL, DynamoDB, BigQuery, Amazon S3, Data Processing. Cloud and tools: AWS, AWS Lambda, AWS Step Functions, Git, GitHub. AI and security: LLM applications, OpenAI API, Amazon Bedrock, RAG, Agentic AI, Prompt Engineering, Semgrep, Trivy, Real Estate Analytics."/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills.svg"><img src="./assets/skills.svg" width="100%" alt="Skills. Languages shown as logos: Python, Java, JavaScript, TypeScript. Backend: FastAPI, SQLAlchemy, Async Python, REST APIs, Atlassian Forge. Data: PostgreSQL, DynamoDB, BigQuery, Amazon S3, Data Processing. Cloud and tools: AWS, AWS Lambda, AWS Step Functions, Git, GitHub. AI and security: LLM applications, OpenAI API, Amazon Bedrock, RAG, Agentic AI, Prompt Engineering, Semgrep, Trivy, Real Estate Analytics."/></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-contact.svg"><img src="./assets/h-contact.svg" width="100%" alt="05 Contact"/></picture>
 
