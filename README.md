@@ -15,7 +15,7 @@ I'm a Programmer Analyst focused on building intelligent applications, scalable 
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-aiarmor.svg"><img src="./assets/card-aiarmor.svg" width="49%" alt="AIArmor / Fusefy: AI-powered, Jira-integrated security assessment platform. Python, Atlassian Forge, AWS, LLMs."/></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-review.svg"><img src="./assets/card-review.svg" width="49%" alt="Code Review Assessor: automated code review and security analysis pipeline. Python, Step Functions, S3, Semgrep, Trivy."/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-realttyai.svg"><img src="./assets/card-realttyai.svg" width="49%" alt="RealttyAI: AI-powered property valuation and real-estate market intelligence. Python, BigQuery, LLMs."/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-realttyai.svg"><img src="./assets/card-realttyai.svg" width="49%" alt="RealttyAI: AI-powered property valuation and real-estate market intelligence. Python, FastAPI, GCP, BigQuery, Gemini."/></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-eventmate.svg"><img src="./assets/card-eventmate.svg" width="49%" alt="EventMate AI, in progress: AI-assisted peer-to-peer rental and sharing marketplace. AI, backend APIs, RAG."/></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-agents.svg"><img src="./assets/card-agents.svg" width="99%" alt="AI Agent and RAG Experiments, in progress: experiments with LLM applications, retrieval and intelligent workflows. Python, OpenAI, Bedrock, RAG."/></picture>
 </p>
@@ -24,7 +24,7 @@ I'm a Programmer Analyst focused on building intelligent applications, scalable 
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-skills.svg"><img src="./assets/h-skills.svg" width="100%" alt="04 Skills"/></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills.svg"><img src="./assets/skills.svg" width="100%" alt="Skills. Languages shown as logos: Python, Java, JavaScript, TypeScript. Backend: FastAPI, SQLAlchemy, Async Python, REST APIs, Atlassian Forge. Data: PostgreSQL, DynamoDB, BigQuery, Amazon S3, Data Processing. Cloud and tools: AWS, AWS Lambda, AWS Step Functions, Git, GitHub. AI and security: LLM applications, OpenAI API, Amazon Bedrock, RAG, Agentic AI, Prompt Engineering, Semgrep, Trivy, Real Estate Analytics."/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills.svg"><img src="./assets/skills.svg" width="100%" alt="Skills. Languages shown as logos: Python, Java, JavaScript, TypeScript. Backend: FastAPI (strongest), Async Python (strongest), SQLAlchemy (strongest), REST APIs, Atlassian Forge. Data: PostgreSQL (strongest), BigQuery, Cloud SQL, DynamoDB, Redis, Data Processing. Cloud, AWS: AWS (strongest), AWS Lambda, AWS Step Functions, Amazon S3. Cloud, Google Cloud: Cloud Run, Pub/Sub, Cloud Workflows, Cloud Storage, Secret Manager. AI and security: LLM Applications (strongest), OpenAI API (strongest), Amazon Bedrock (strongest), Gemini / Vertex AI, RAG, Agentic AI, Prompt Engineering, Semgrep, Trivy, Real Estate Analytics. Tools: Docker, Git, GitHub."/></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-contact.svg"><img src="./assets/h-contact.svg" width="100%" alt="05 Contact"/></picture>
 
