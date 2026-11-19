@@ -4,7 +4,7 @@
 
 I'm a Programmer Analyst focused on building intelligent applications, scalable backend systems and AI-powered solutions. I currently work on LLM-based applications, automated security assessment, cloud-native architectures and real-estate intelligence systems. I'm passionate about Agentic AI, backend architecture and solving real-world engineering problems.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/about.svg"><img src="./assets/about.svg" width="100%" alt="Currently: AI-powered applications, automated code review, real-estate analytics and backend systems. Learning: Agentic AI, RAG, LLM orchestration, AI security and cloud architecture. Open to: collaboration, open source and career opportunities. Interests: AI engineering, system design, emerging technologies and bodybuilding."/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/about.svg"><img src="./assets/about.svg" width="100%" alt="Currently: AI-powered applications, automated code review, real-estate analytics and backend systems. Learning: Agentic AI, RAG, LLM orchestration, AI security and cloud architecture. Open to: collaborating, open source and growing together. Interests: AI engineering, system design, emerging technologies and bodybuilding."/></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-experience.svg"><img src="./assets/h-experience.svg" width="100%" alt="02 Experience"/></picture>
 
